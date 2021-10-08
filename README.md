@@ -2,6 +2,7 @@
 just some text that enlightened your searching skills
 
 * // your actual search //
+
 1)//"search query"// for exact term search. 
 2) //site:fireship.io search query// to search within that site only.
 3) //search query -jquery // to exclude jquery from your search result.
